@@ -1,16 +1,24 @@
-### Hi there 👋
+# Hi there, I'm Md Rashidul Hasan! 👋
 
-<!--
-**rashidulhasan777/rashidulhasan777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate software engineer with expertise in JavaScript, Python, Angular, and React.
 
-Here are some ideas to get you started:
+🌱 I'm currently learning Angular, NextJs and interested in learning C#, Rust.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👨‍💻 In my free time, I love to code and solve problem, to read science and tech related magazines, to watch documetrary, movie and TV series.
+
+## 🚀 Skills and Tools:
+
+- **Languages:** JavaScript, TypeScript, Python, C++
+- **Frameworks:** Angular, React, ExpressJS, Django, 
+- **Tools:** Git, VS Code, npm
+
+## 📊 GitHub Stats:
+
+[![rashidulhasan777's GitHub | Stats](https://stats.quine.sh/rashidulhasan777/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=rashidulhasan777)
+[![rashidulhasan777's GitHub | Languages Over Time](https://stats.quine.sh/rashidulhasan777/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=rashidulhasan777)
+
+## 💼 Let's Connect:
+
+- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/rashidulhasan777/)
+
+Feel free to connect and explore projects together! 😊

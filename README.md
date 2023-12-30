@@ -19,6 +19,6 @@ I'm a passionate software engineer with expertise in JavaScript, Python, Angular
 
 ## 💼 Let's Connect:
 
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/rashidulhasan777/)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/rashidulhasan777/)
 
 Feel free to connect and explore projects together! 😊
